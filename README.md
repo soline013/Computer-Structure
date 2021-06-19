@@ -1,3 +1,13 @@
-# Computer-Structure
+# Computer-Structure.
 
-공부 많이 해야겠다.
+## Performance
+
+## Instructions
+
+## Processor
+
+## Pipeline
+
+## Cache
+
+## Benchmark
